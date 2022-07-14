@@ -1,0 +1,17 @@
+C:\Users\Ahmed\Desktop\MyCoach-DatabaseBuilder\MyCoach-DatabaseBuilder\obj\Debug\MyCoach-DatabaseBuilder.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\MyCoach-DatabaseBuilder\MyCoach-DatabaseBuilder\obj\Debug\MyCoach-DatabaseBuilder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahmed\Desktop\MyCoach-DatabaseBuilder\MyCoach-DatabaseBuilder\obj\Debug\MyCoach_DatabaseBuilder.Form1.resources
+C:\Users\Ahmed\Desktop\MyCoach-DatabaseBuilder\MyCoach-DatabaseBuilder\obj\Debug\MyCoach_DatabaseBuilder.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\MyCoach-DatabaseBuilder\MyCoach-DatabaseBuilder\obj\Debug\MyCoach-DatabaseBuilder.csproj.GenerateResource.cache
+C:\Users\Ahmed\Desktop\MyCoach-DatabaseBuilder\MyCoach-DatabaseBuilder\obj\Debug\MyCoach-DatabaseBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\MyCoach-DatabaseBuilder\MyCoach-DatabaseBuilder\bin\Debug\MyCoach-DatabaseBuilder.exe.config
+C:\Users\Ahmed\Desktop\MyCoach-DatabaseBuilder\MyCoach-DatabaseBuilder\bin\Debug\MyCoach-DatabaseBuilder.exe
+C:\Users\Ahmed\Desktop\MyCoach-DatabaseBuilder\MyCoach-DatabaseBuilder\bin\Debug\MyCoach-DatabaseBuilder.pdb
+C:\Users\Ahmed\Desktop\MyCoach-DatabaseBuilder\MyCoach-DatabaseBuilder\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Ahmed\Desktop\MyCoach-DatabaseBuilder\MyCoach-DatabaseBuilder\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Ahmed\Desktop\MyCoach-DatabaseBuilder\MyCoach-DatabaseBuilder\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Ahmed\Desktop\MyCoach-DatabaseBuilder\MyCoach-DatabaseBuilder\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Ahmed\Desktop\MyCoach-DatabaseBuilder\MyCoach-DatabaseBuilder\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Ahmed\Desktop\MyCoach-DatabaseBuilder\MyCoach-DatabaseBuilder\obj\Debug\MyCoach-DatabaseBuilder.csproj.CopyComplete
+C:\Users\Ahmed\Desktop\MyCoach-DatabaseBuilder\MyCoach-DatabaseBuilder\obj\Debug\MyCoach-DatabaseBuilder.exe
+C:\Users\Ahmed\Desktop\MyCoach-DatabaseBuilder\MyCoach-DatabaseBuilder\obj\Debug\MyCoach-DatabaseBuilder.pdb
